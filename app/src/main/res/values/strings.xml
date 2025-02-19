@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Compose FAB Explosion Animation</string>
+
+    <!-- ScreenA -->
+    <string name="screen_a">ScreenA</string>
+
+    <!-- ScreenB -->
+    <string name="screen_b">ScreenB</string>
 </resources>
